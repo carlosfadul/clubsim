@@ -1,0 +1,9 @@
+{
+"titular": "Carlos Fadul",
+"no_miembro": "123-456789", 
+"direccion": "Avenida 1 #7-42",  
+"telefono":"636-555-3472",
+"email":"carlos@gmail.com", 
+"saldo": [ { "moneda": "usd", "monto": 725.09 }, { "moneda": "eu", "monto": 195.67} ],
+"miembro_desde": "2019"
+}
